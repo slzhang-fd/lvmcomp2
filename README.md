@@ -10,5 +10,5 @@ factor analysis based on the multidimensional two parameter logistic (M2PL) mode
 The computation is facilitated by multiprocessing 'OpenMP' API.
 
 For more information, please refer to:
-Zhang, S., Chen, Y. (2022) [Computation for Latent Variable Model Estimation: 
-A Unified Stochastic Proximal Framework](https://arxiv.org/abs/2008.07214). Psychometrika. 
+Zhang, S., & Chen, Y. (2022). [Computation for Latent Variable Model Estimation: 
+A Unified Stochastic Proximal Framework](https://arxiv.org/abs/2008.07214). 
