@@ -1,11 +1,17 @@
 Package: lvmcomp2
 Type: Package
-Title: What the package does (short line)
+Title: Fast estimation for Latent Variable Models using Unified Stochastic Proximal Algorithms
 Version: 1.0
 Date: 2022-05-02
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
+Author: Siliang Zhang [aut, cre],
+    Yunxiao Chen [aut]
+Maintainer: Siliang Zhang <zhangsiliang123@gmail.com>
 Description: More about what it does (maybe more than one line)
-License: What license is it under?
-Imports: Rcpp (>= 1.0.8.3)
+License: GPL-3
+Imports: 
+    Rcpp (>= 1.0.3),
+    coda (>= 0.19-3),
+    stats
 LinkingTo: Rcpp, RcppArmadillo
+RoxygenNote: 7.1.2
+Encoding: UTF-8
