@@ -9,7 +9,7 @@ So far, we provide functions for confirmatory item
 factor analysis based on the multidimensional two parameter logistic (M2PL) model.
 The computation is facilitated by multiprocessing 'OpenMP' API.
 
-# Check below for installation and basic usage
+### Guide for installation and basic usage
 [lvmcomp2 wiki](https://github.com/slzhang-fd/lvmcomp2/wiki)
 
 For more information, please refer to:
