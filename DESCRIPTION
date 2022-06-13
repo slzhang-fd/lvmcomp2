@@ -7,10 +7,10 @@ Author: Siliang Zhang [aut, cre],
     Yunxiao Chen [aut]
 Maintainer: Siliang Zhang <zhangsiliang123@gmail.com>
 Description: Provides stochastic approximation algorithms for latent variable 
-models with a high-dimensional latent space and with constraints/penalized parameters. 
-So far, we provide functions for confirmatory item factor analysis based on the 
-multidimensional two parameter logistic (M2PL) model. 
-The computation is facilitated by multiprocessing 'OpenMP' API.
+  models with a high-dimensional latent space and with constraints/penalized parameters. 
+  So far, we provide functions for confirmatory item factor analysis based on the 
+  multidimensional two parameter logistic (M2PL) model. 
+  The computation is facilitated by multiprocessing 'OpenMP' API.
 License: GPL-3
 Imports: 
     Rcpp (>= 1.0.3),
